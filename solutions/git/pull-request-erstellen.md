@@ -121,6 +121,5 @@ Fügen Sie diesem Abschnitt Ihren Namen oder Ihr Pseudonym hinzu:
 - Almut Plewe (@AlmutP)
 - Sabine_1 (@Atoemchen-S)
 - Jakob
+- 3dSigi
 solutions/git/benutzername
-3dSigi
-
